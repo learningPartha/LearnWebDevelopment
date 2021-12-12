@@ -1,0 +1,25 @@
+body{
+  background-color:#D1E8E4;
+ }
+ hr{
+   border-style: none;
+   border-top-style:dotted;
+   border-color:grey;
+   border-width:2px;
+   width:5%;
+ }
+ img{
+   height:180px;
+   width:180px;
+ }
+h1{
+  color:#C37B89;
+  font-family: verdana;
+}
+h3{
+  color:#C37B89;
+  font-family: verdana;
+}
+table:hover{
+  border-style: dashed;
+}
